@@ -22,4 +22,7 @@ $ curl -LsSf https://astral.sh/uv/install.sh | sh
 
    ```
    $ uv run streamlit run streamlit_app.py
-   ```
+   ```import streamlit as st
+
+st.title("Reconocimiento de Piezas Neuronal")
+st.write("Aplicación en Streamlit para reconocer piezas mecánicas usando visión computacional y redes neuronales.")
