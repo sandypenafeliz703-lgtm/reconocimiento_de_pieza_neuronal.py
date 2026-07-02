@@ -26,3 +26,4 @@ $ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 st.title("Reconocimiento de Piezas Neuronal")
 st.write("Aplicación en Streamlit para reconocer piezas mecánicas usando visión computacional y redes neuronales.")
+import streamlit as st
