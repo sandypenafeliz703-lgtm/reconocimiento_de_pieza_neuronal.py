@@ -1,4 +1,6 @@
-# 🔧 Reconocimiento de Piezas Mecánicas con CNN
+---
+Por haquí 🌌  
+Una sola voz, claridad y energía.# 🔧 Reconocimiento de Piezas Mecánicas con CNN
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
