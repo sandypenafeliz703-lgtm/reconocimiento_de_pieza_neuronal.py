@@ -1,4 +1,10 @@
-# 🎈 Blank app template
+# 🔧 Reconocimiento de Piezas Mecánicas con CNN
+
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-app-red.svg)
+![TensorFlow](https://img.shields.io/badge/tensorflow-2.x-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)# 🎈 Blank app template
 
 A simple Streamlit app template for you to modify!
 
