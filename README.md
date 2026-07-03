@@ -1,4 +1,36 @@
 ---
+## ⛰️ Pirámide Cósmica ASCII
+
+           ✦
+          * ✦
+         ✦   *
+        *     ✦
+       ✦       *
+      *         ✦
+     ✦           *
+    *             ✦
+   ✦               *
+  *                 ✦
+ ✦                   *
+
+        💻 Código como constelación
+        🌱 Disciplina que germina estrellas
+        ⚡ Confianza que irradia energía
+        🌌 Una sola voz en el universo
+
+ ✦                   *
+  *                 ✦
+   ✦               *
+    *             ✦
+     ✦           *
+      *         ✦
+       ✦       *
+        *     ✦
+         ✦   *
+          * ✦
+           ✦
+
+✨🌱⚡🌌 Por haquí---
 ## 💎 Diamante Cósmico ASCII
 
            ✦
