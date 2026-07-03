@@ -149,3 +149,4 @@ python train_model.py
 python train_model.py
 streamlit run app.py
 Añadido script de entrenamiento train_model.py
+python train_model.py
