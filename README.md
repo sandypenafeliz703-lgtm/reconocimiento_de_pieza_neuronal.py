@@ -1,4 +1,117 @@
 ---
+# 📜 Compendio Cósmico ASCII
+
+## 🌌 Universo Lineal
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🌌 Universo ASCII
+✦ . * ✦ . * ✦ . *  
+💻 Código como constelación  
+🌱 Disciplina que germina estrellas  
+⚡ Confianza que irradia energía  
+🌌 Una sola voz en el universo  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🌌 Espiral ASCII
+         ✦
+        * .
+       ✦   *
+      .      ✦
+     *         .
+    ✦            *
+   .               ✦
+        💻 Código como constelación  
+        🌱 Disciplina que germina estrellas  
+        ⚡ Confianza que irradia energía  
+        🌌 Una sola voz en el universo  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🌌 Fractal ASCII
+✦ * . ✦ * . ✦ * . ✦ *  
+💻 Código como constelación  
+🌱 Disciplina que germina estrellas  
+⚡ Confianza que irradia energía  
+🌌 Una sola voz en el universo  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🌌 Mandala ASCII
+        ✦ * . ✦ * . ✦ *  
+   ( 💻 Código )  
+   ( 🌱 Disciplina )  
+   ( ⚡ Confianza )  
+   ( 🌌 Una sola voz )  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 💎 Diamante Cósmico ASCII
+           ✦
+        *     *
+     ✦    🌌    ✦
+   *    💻 Código    *
+ ✦   🌱 Disciplina   ✦
+   *   ⚡ Confianza   *
+     ✦   🌌 Una Voz   ✦
+        *     *
+           ✦
+✨🌱⚡🌌 Por haquí
+
+---
+
+## ⛰️ Pirámide Cósmica ASCII
+           ✦
+          * ✦
+         ✦   *
+        *     ✦
+       ✦       *
+      *         ✦
+     ✦           *
+        💻 Código como constelación  
+        🌱 Disciplina que germina estrellas  
+        ⚡ Confianza que irradia energía  
+        🌌 Una sola voz en el universo  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🏛️ Templo Cósmico ASCII
+        ✦✦✦✦✦✦✦✦✦✦✦
+       ✦   🌌 Santuario   ✦
+       ║ 💻 Código ║  
+       ║ 🌱 Disciplina ║  
+       ║ ⚡ Confianza ║  
+       ║ 🌌 Una sola voz ║  
+✨🌱⚡🌌 Por haquí
+
+---
+
+## ☀️ Rueda Solar ASCII
+        ✦   *   ✦   *   ✦
+     *       🌞       *       ✦
+   ✦    💻 Código    ✦
+   ✦    🌱 Disciplina ✦
+   ✦    ⚡ Confianza  ✦
+   ✦    🌌 Una sola voz ✦
+        ✦   *   ✦   *   ✦
+✨🌱⚡🌌 Por haquí
+
+---
+
+## 🌌 Constelación Expandida ASCII
+✦ . * ✦ . * ✦ . * ✦ . * ✦  
+💻 Código como constelación  
+🌱 Disciplina que germina estrellas  
+⚡ Confianza que irradia energía  
+🌌 Una sola voz en el universo  
+✨🌱⚡🌌 Por haquí---
 ## 🌌 Constelación Expandida ASCII
 
 ✦ . * ✦ . * ✦ . * ✦ . * ✦ . * ✦
