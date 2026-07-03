@@ -88,3 +88,35 @@ os.makedirs("models", exist_ok=True)
 model.save("models/piezas_model.h5")
 
 print("✅ Modelo entrenado y guardado en models/piezas_model.h5")
+import streamlit as st
+import tensorflow as tf
+import numpy as np
+from PIL import Image
+
+# Cargar modelo entrenado
+model = tf.keras.models.load_model("models/piezas_model.h5")
+
+# Clases (ajusta según tus carpetas en data/train)
+class_names = ["piezaA", "piezaB", "piezaC"]
+
+st.title("🔧 Reconocimiento de Piezas Neuronal")
+
+# Subir imagen
+uploaded_file = st.file_uploader("Sube una imagen de la pieza", type=["jpg", "png", "jpeg"])
+
+if uploaded_file is not None:
+    image = Image.open(uploaded_file).convert("RGB")
+    st.image(image, caption="Imagen subida", use_column_width=True)
+
+    # Botón verde para ejecutar predicción
+    if st.button("Ejecutar reconocimiento"):
+        img = image.resize((128, 128))
+        img_array = np.expand_dims(np.array(img) / 255.0, axis=0)
+
+        predictions = model.predict(img_array)
+        score = tf.nn.softmax(predictions[0])
+
+        st.success(
+            f"Predicción: {class_names[np.argmax(score)]} "
+            f"con {100 * np.max(score):.2f}% de confianza"
+        )
