@@ -1,4 +1,10 @@
-✨🌱⚡🌌 Por haquí---
+---
+## 🪐 Manifiesto Breve (ASCII)
+
+   ✨🌱⚡🌌
+  ────────────
+   P O R   H A Q U Í
+  ────────────✨🌱⚡🌌 Por haquí---
 ## 🪐 Manifiesto Breve
 
 💻 Este proyecto no es solo código  
