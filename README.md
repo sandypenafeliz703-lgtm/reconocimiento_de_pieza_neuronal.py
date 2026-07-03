@@ -121,3 +121,7 @@ if uploaded_file is not None:
             f"con {100 * np.max(score):.2f}% de confianza"
         )
 streamlit run app.py
+tensorflow==2.15.0
+streamlit==1.36.0
+numpy
+pillow
