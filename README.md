@@ -1,4 +1,4 @@
----
+✨🌱⚡🌌 Por haquí---
 ## 🪐 Manifiesto Breve
 
 💻 Este proyecto no es solo código  
