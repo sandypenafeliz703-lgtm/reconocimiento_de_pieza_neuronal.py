@@ -180,3 +180,7 @@ plt.savefig('images/loss.png')  # Guarda la imagen en la carpeta images
 plt.close()
 
 print("✅ Gráficas guardadas en la carpeta 'images'")
+## 📊 Resultados del entrenamiento
+
+![Gráfica de precisión](images/accuracy.png)
+![Gráfica de pérdida](images/loss.png)
