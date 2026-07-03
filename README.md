@@ -1,4 +1,17 @@
 ---
+## 💎 Diamante Cósmico ASCII
+
+           ✦
+        *     *
+     ✦    🌌    ✦
+   *    💻 Código    *
+ ✦   🌱 Disciplina   ✦
+   *   ⚡ Confianza   *
+     ✦   🌌 Una Voz   ✦
+        *     *
+           ✦
+
+✨🌱⚡🌌 Por haquí---
 ## 🌌 Estrella Fractal ASCII
 
            ✦       *       ✦
