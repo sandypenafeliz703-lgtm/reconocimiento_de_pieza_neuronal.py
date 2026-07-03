@@ -120,3 +120,4 @@ if uploaded_file is not None:
             f"Predicción: {class_names[np.argmax(score)]} "
             f"con {100 * np.max(score):.2f}% de confianza"
         )
+streamlit run app.py
