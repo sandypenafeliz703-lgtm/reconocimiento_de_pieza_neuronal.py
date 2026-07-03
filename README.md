@@ -1,4 +1,12 @@
 ---
+## 🌌 Manifiesto Cósmico Animado
+
+✦ .   *       .       ✦       *   .  
+    .    ✦   .   *        .   ✦    .  
+*   .        ✦   .   *        .   ✦   
+        ✦   .   *        .   ✦   .    
+
+✨🌱⚡🌌 Por haquí---
 ## 🌌 Manifiesto Cósmico
 
 ✦───────────────✦───────────────✦  
