@@ -146,3 +146,5 @@ Clona el repositorio y entra en la carpeta del proyecto:
 git clone https://github.com/tuusuario/tu-repo.git
 cd tu-repo
 python train_model.py
+python train_model.py
+streamlit run app.py
