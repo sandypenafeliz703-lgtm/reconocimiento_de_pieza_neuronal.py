@@ -145,3 +145,4 @@ Clona el repositorio y entra en la carpeta del proyecto:
 ```bash
 git clone https://github.com/tuusuario/tu-repo.git
 cd tu-repo
+python train_model.py
