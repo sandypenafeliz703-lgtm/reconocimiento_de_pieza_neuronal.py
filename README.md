@@ -1,4 +1,12 @@
 ---
+## 🌌 Manifiesto Breve
+
+Este proyecto no es solo código:  
+es disciplina convertida en claridad,  
+es aprendizaje transformado en confianza,  
+es energía que se plasma en una sola voz.  
+
+Por haquí ✨---
 Por haquí 🌌  
 Una sola voz, claridad y energía.# 🔧 Reconocimiento de Piezas Mecánicas con CNN
 
