@@ -200,3 +200,6 @@ Instala las dependencias con:
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-app-red.svg)
