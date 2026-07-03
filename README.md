@@ -198,3 +198,4 @@ Instala las dependencias con:
 
 ```bash
 pip install -r requirements.txt
+python train_model.py
