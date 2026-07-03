@@ -150,3 +150,33 @@ python train_model.py
 streamlit run app.py
 Añadido script de entrenamiento train_model.py
 python train_model.py
+import matplotlib.pyplot as plt
+
+# Entrenamiento del modelo
+history = model.fit(train_ds, validation_data=val_ds, epochs=10)
+
+# Guardar gráficas de precisión
+plt.figure(figsize=(8, 6))
+plt.plot(history.history['accuracy'], label='Entrenamiento', color='blue')
+plt.plot(history.history['val_accuracy'], label='Validación', color='orange')
+plt.title('Precisión del Modelo')
+plt.xlabel('Épocas')
+plt.ylabel('Precisión')
+plt.legend()
+plt.grid(True)
+plt.savefig('images/accuracy.png')  # Guarda la imagen en la carpeta images
+plt.close()
+
+# Guardar gráficas de pérdida
+plt.figure(figsize=(8, 6))
+plt.plot(history.history['loss'], label='Entrenamiento', color='blue')
+plt.plot(history.history['val_loss'], label='Validación', color='orange')
+plt.title('Pérdida del Modelo')
+plt.xlabel('Épocas')
+plt.ylabel('Pérdida')
+plt.legend()
+plt.grid(True)
+plt.savefig('images/loss.png')  # Guarda la imagen en la carpeta images
+plt.close()
+
+print("✅ Gráficas guardadas en la carpeta 'images'")
