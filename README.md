@@ -125,3 +125,23 @@ tensorflow==2.15.0
 streamlit==1.36.0
 numpy
 pillow
+# 🔧 Reconocimiento de Piezas con TensorFlow y Streamlit
+
+Este proyecto entrena un modelo de red neuronal convolucional (CNN) para reconocer diferentes tipos de piezas mecánicas y ofrece una interfaz web sencilla con Streamlit para realizar predicciones.
+
+---
+
+## 📂 Estructura del proyecto
+- `train_model.py` → Script para entrenar el modelo.
+- `models/piezas_model.h5` → Modelo entrenado y guardado.
+- `app.py` → Interfaz Streamlit con botón verde para predicción.
+- `requirements.txt` → Dependencias necesarias.
+- `README.md` → Instrucciones del proyecto.
+
+---
+
+## ⚙️ Instalación
+Clona el repositorio y entra en la carpeta del proyecto:
+```bash
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
