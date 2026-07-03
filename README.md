@@ -184,3 +184,17 @@ print("✅ Gráficas guardadas en la carpeta 'images'")
 
 ![Gráfica de precisión](images/accuracy.png)
 ![Gráfica de pérdida](images/loss.png)
+# 🔧 Reconocimiento de Piezas Mecánicas con CNN
+
+Este proyecto utiliza una red neuronal convolucional (CNN) para reconocer piezas mecánicas a partir de imágenes.  
+Incluye un script de entrenamiento y una aplicación web con Streamlit para realizar predicciones de manera sencilla.
+
+---
+
+## 📦 Instalación
+
+Clona el repositorio y asegúrate de tener Python 3.9+ instalado.  
+Instala las dependencias con:
+
+```bash
+pip install -r requirements.txt
