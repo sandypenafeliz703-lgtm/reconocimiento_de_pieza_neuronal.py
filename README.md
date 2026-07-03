@@ -1,4 +1,12 @@
+---
+## 🪐 Manifiesto Breve
 
+💻 Este proyecto no es solo código  
+🌱 Es disciplina que florece en claridad  
+⚡ Es aprendizaje que se transforma en confianza  
+🌌 Es energía que se plasma en una sola voz  
+
+✨ Por haquí
 
 ---
 ## 🌌 Manifiesto Breve
