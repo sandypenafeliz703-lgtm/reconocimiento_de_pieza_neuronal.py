@@ -1,4 +1,9 @@
-# 🌌 Creadora de Mecha
+████████████████████████████████████████████
+█▄─▄─▀█▄─▄█─▄▄─█▄─▄█▄─▄█▄─▄█▄─▄─▀█─▄▄─█▄─▄█
+██─▄─▀██─██─██─██─███─███─███─▄─▀█─██─██─██
+▀▄▄▄▄▀▀▄▄▄▀▄▄▄▄▀▄▄▄▀▄▄▄▀▄▄▄▀▄▄▄▄▀▀▄▄▄▄▀▄▄▄▀
+
+🌌 CREADORA DE MECHA# 🌌 Creadora de Mecha
 
 ## 📖 Propósito
 La aplicación **Creadora de Mecha** nace como un puente entre lo técnico y lo simbólico.  
