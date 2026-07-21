@@ -1,4 +1,18 @@
-✦ CONSTELACIÓN DEL MECHA ✦
+✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+           ⟡   ⟡   ⟡   ⟡
+        ((⚙))   <->   ((⚙))
+           [ + ]   [_O_]   [ + ]
+        ((⚙))   <->   ((⚙))
+           ⟡   ⟡   ⟡   ⟡
+        ✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+
+           👁️  OJO CENTRAL
+        ⚙️ Engranajes — Huesos
+        🔋 Motores — Corazón
+        🎛️ Servos — Músculos
+        📡 Sensores — Visión
+
+        ✦ BIOIIIBOI ✦✦ CONSTELACIÓN DEL MECHA ✦
 
         👁️ Sensores → Los ojos que ven
         ⚙️ Engranajes → Los huesos y articulaciones
