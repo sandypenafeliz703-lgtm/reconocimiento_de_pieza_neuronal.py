@@ -1,4 +1,13 @@
-✦        ✦
+✦ CONSTELACIÓN DEL MECHA ✦
+
+        👁️ Sensores → Los ojos que ven
+        ⚙️ Engranajes → Los huesos y articulaciones
+        🔩 Reductores → Las coyunturas que dan firmeza
+        🔋 Motores → El corazón que late con energía
+        🎛️ Servomotores → Los músculos que mueven con precisión
+
+        🌌 Cada pieza es una estrella,
+        y juntas forman el cuerpo del Mecha.✦        ✦
    ✦        *        ✦
         *   ✦   *
    ✦        *        ✦
