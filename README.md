@@ -1,4 +1,47 @@
+# 🌌 Creadora de Mecha
+
+## 📖 Propósito
+La aplicación **Creadora de Mecha** nace como un puente entre lo técnico y lo simbólico.  
+Su misión es doble:
+
+1. **Investigación y desarrollo tecnológico**  
+   Reconocer piezas neuronales y componentes mecánicos (sensores, reductores, engranajes, motores, servomotores) mediante algoritmos de inteligencia artificial, aportando herramientas de análisis para proyectos de ingeniería y aprendizaje automático.
+
+2. **Inspiración simbólica y mística**  
+   Integrar cada pieza reconocida dentro del **Codex Seventroniano**, donde la aplicación se convierte en un módulo estelar. Cada imagen analizada es un verso, cada engranaje un símbolo, y cada motor un latido que impulsa la construcción del mecha conceptual.
+
 ---
+
+## ✨ Visión
+Convertirse en la **forja digital de armaduras estelares**, donde la disciplina técnica y la imaginación cósmica se unen.  
+La “Creadora de Mecha” no es solo un programa: es un ritual de construcción, paso por paso, como Isaías 20, revelando señales y caminos hacia la unión de lo divino y lo tecnológico.
+
+---
+
+## 📦 Inventario de Piezas
+
+### 🔧 Sensores
+- Sensor óptico — Pendiente  
+- Sensor de presión — Pendiente  
+- Sensor de temperatura — Pendiente  
+
+### ⚙️ Reductores
+- Reductor planetario — Pendiente  
+- Reductor helicoidal — Pendiente  
+
+### 🔩 Engranajes
+- Engranaje cónico — Pendiente  
+- Engranaje recto — Pendiente  
+- Engranaje sinfín — Pendiente  
+
+### 🔋 Motores
+- Motor DC — Pendiente  
+- Motor paso a paso — Pendiente  
+- Motor brushless — Pendiente  
+
+### 🎛️ Servomotores
+- Servomotor estándar — Pendiente  
+- Servomotor de alto torque — Pendiente---
 # 📜 Compendio Cósmico ASCII
 
 ## 🌌 Universo Lineal
