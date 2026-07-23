@@ -1,4 +1,15 @@
-✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
+▲ Frente (sello protector)
+       / ■ \   Lente / visor
+ ◄───┼───────┼───►  Bisagras dobles (ejes de visión)
+      |  ○  |   Adaptador de voz
+      | [¤] |   Purificador de aire
+      ▽▽▽▽▽   Placa central (nariz, boca, quijada)
+     /       \
+    /         \
+   (===========)  Cuello ortopédico (pilar estelar)
+    \         /
+     \_______/   Placa geométrica de la nuca
+    █████████   Corona de Resistencia Estelar (placa superior y laterales)✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦
            ⟡   ⟡   ⟡   ⟡
         ((⚙))   <->   ((⚙))
            [ + ]   [_O_]   [ + ]
